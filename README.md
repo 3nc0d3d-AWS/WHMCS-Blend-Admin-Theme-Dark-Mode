@@ -4,7 +4,7 @@ Once you do so, refresh your whmcs page to see changes take into effect.
 ![Blue & Black](https://raw.githubusercontent.com/3nc0d3d-AWS/WHMCS-Blend-Admin-Theme-Dark-Mode/refs/heads/3nc0d3d-AWS-Custom-css/red%26blk.png)
 
 # Blue & Black
-![Red & Black](https://raw.githubusercontent.com/WevrLabs-Group/WHMCS-Blend-Admin-Theme-Dark-Mode/master/screenshots/admin-homepage.png)
+![Red & Black](https://raw.githubusercontent.com/3nc0d3d-AWS/WHMCS-Blend-Admin-Theme-Dark-Mode/refs/heads/3nc0d3d-AWS-Custom-css/blue%26blk.png)
 
 # WHMCS-Blend-Admin-Theme-Dark-Mode
 This file adds dark interface to the Blend admin theme of WHMCS
