@@ -1,3 +1,11 @@
+Original WHMCS-Blend-Admin-Theme-Dark-Mode is below. Here i bring you two css files which combine with the dark mode. Images can be seen below. Once downloaded please rename the file "custom_colorName.css" to "custom.css" and save inside of the darkblend folder.
+Once you do so, refresh your whmcs page to see changes take into effect.
+# Red & Black
+![Blue & Black](https://raw.githubusercontent.com/3nc0d3d-AWS/WHMCS-Blend-Admin-Theme-Dark-Mode/refs/heads/3nc0d3d-AWS-Custom-css/red%26blk.png)
+
+# Blue & Black
+![Red & Black](https://raw.githubusercontent.com/WevrLabs-Group/WHMCS-Blend-Admin-Theme-Dark-Mode/master/screenshots/admin-homepage.png)
+
 # WHMCS-Blend-Admin-Theme-Dark-Mode
 This file adds dark interface to the Blend admin theme of WHMCS
 
